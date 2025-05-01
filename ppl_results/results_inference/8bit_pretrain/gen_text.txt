@@ -1,0 +1,77 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its incredible tilt, but it seems the iconic building has been losing some of its famous angle in recent years, leaving many asking "is it safe?"
+This 17th century palace was built for one of Pisa's greatest citizens, and contains a number of fascinating artifacts. Here are 8 facts about the Palazzo Blu.
+Latency: 6.988s | Allocated: 8678.91 MB | Reserved: 9084.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for being a medieval church tower that has become infamous for its incline, however, it wasn’t always that way. The iconic tilt occurred during the tower’s construction, and at one point, it was an architectural wonder that looked almost entirely upright. 
+Here’s everything you need to know about the iconic landmark’s long history of leaning.
+The tower had a good start
+Construction of the Leaning Tower of Pisa began on August 9, 1173, but the building did not lean until about eight years later, in 1201. After the tower reached 15.5 metres high, it had become slightly inclined. However
+Latency: 12.053s | Allocated: 8678.57 MB | Reserved: 9094.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its tilt but the tilt is actually decreasing.
+How are earthquakes and volcanoes alike?
+What happens when an Earthquake happens?
+Where are the different layers of Earth?
+What is the average elevation on Earth?
+When do tsunamis happen and what causes them?
+What is a megatsunami and where do they happen?
+What causes tidal waves and how are they different from tsunamis?
+What are the different types of volcanoes?
+How do volcanoes form?
+How do volcanoes help Earth?
+What causes the tilt of the Earth?
+What happens during an Earthquake?
+What are earthquakes caused by?
+What causes Tsunam
+Latency: 12.484s | Allocated: 8679.16 MB | Reserved: 9094.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for its tilt and as one of the Wonders of the Medieval World. The building started construction in 1174, but was completed around 1350. The structure was meant to be a free standing bell tower, but the soil beneath it was not stable enough to support its massive weight, so it slowly became the Leaning Tower. The bell tower is 8 degrees off from center, and over the years, it was actually sinking even more to the ground and its original tilt was becoming worse.
+This is a real life picture from 2010 of The Leaning Tower of Pisa.
+As you can see the top is tilting
+Latency: 11.862s | Allocated: 8678.31 MB | Reserved: 9094.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its inclination. However, do you really know how much it leans? Did you know that the Leaning Tower of Pisa was planned to be completely straight? Or that the tilt was a huge embarrassment to the people of Pisa?
+Check out the fact sheets in this section to discover more about the Leaning Tower of Pisa. All the information in this area is available in English, Italian, French and German.
+For further information please contact info@operapisa.it
+Latency: 8.561s | Allocated: 8679.33 MB | Reserved: 9094.00 MB
+
+=== output 5
+The Leaning Tower of Pisa is known for being an engineering marvel, leaning at a beautiful angle as it has done for over 800 years. But this magnificent structure was not always on the UNESCO World Heritage List and did not always lean to one side. Today, we're going to see the history and the science behind one of the most famous constructions in the world.
+The Leaning Tower of Pisa was built along with the rest of the cathedral complex at Pisa. The name of the tower comes from the site of construction, which is located near the Arno River, close to where the Arno's largest bridge still stands today. This tower was constructed to complement the cathedral
+Latency: 12.618s | Allocated: 8678.95 MB | Reserved: 9094.00 MB
+
+=== output 6
+The Leaning Tower of Pisa is known for its tilt, but not too many visitors know that it used to be quite a bit more crooked. A new study finds that the tilt has become more severe over the years, and that it’s been getting worse with each earthquake. This could be a problem for the ancient building, but the researchers say they’re relieved to discover that the problem hasn’t been as bad as once thought.
+The Leaning Tower of Pisa was completed in 1372, but it soon began to sink and tilt — though not quite as much as it does today. In the 1980s, engineers started to worry that the tower was going to
+Latency: 12.111s | Allocated: 8678.50 MB | Reserved: 9094.00 MB
+
+=== output 7
+The Leaning Tower of Pisa is known for it's lean, but some people believe the tower isn't leaning as much as thought!
+A 3D laser scanner has found that the tilt of the famous tower has only got worse by an extra 38 millimetres.
+This is just 2 millimetres more than previously estimated by an international team of researchers, who visited the tower in 2008, 10 years after its last survey.
+But it has only increased its tilt over the last 10 years by 0.11 degrees, which is "good news", they said.
+Latency: 10.498s | Allocated: 8679.03 MB | Reserved: 9094.00 MB
+
+=== output 8
+The Leaning Tower of Pisa is known for its lean, but there is more to this medieval cathedral bell tower in Italy than meets the eye. Discover the top attractions in the area.
+This iconic Italian landmark was built from 1173 to 1380 as a free-standing bell tower for the nearby Pisa Cathedral. The Leaning Tower of Pisa may lean, but it still has been the tallest building in the town for more than 800 years. 
+It is believed that the tower started to lean while it was still under construction. The Leaning Tower of Pisa is now among the most famous architectural works in the world because it is a part of the "Miracle
+Latency: 11.876s | Allocated: 8679.08 MB | Reserved: 9094.00 MB
+
+=== output 9
+The Leaning Tower of Pisa is known for being crooked, but the truth is that the tower was built to tilt slightly over two of its six levels. Today, the tower leans about 15 feet out of the vertical, but it could have been a lot worse.
+In 1173, the city of Pisa was at war with Genoa, a rival city-state. The war led to a series of military defeats for Pisa, and the city had to raise a lot of money quickly to defend itself. The ruling class was inspired by a design for an impressive bell tower by the engineer, Giovanni di Simone. They decided to build the tower quickly on the site of
+Latency: 12.246s | Allocated: 8678.85 MB | Reserved: 9094.00 MB
+
+=== Summary ===
+Average Latency: 11.130 sec
+Average Allocated Memory: 8678.87 MB
+Average Reserved Memory: 9093.00 MB

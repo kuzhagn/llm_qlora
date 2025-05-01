@@ -1,0 +1,22 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+=== output 0 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt. However, the tower’s tilt is part of the plan rather than an accident. It was purposely designed to be a lean because the tower is built on soft clay soil. Due to the soft clay, the tower leans to the south and had to be built at an angle to the north to compensate.
+In 1838, the tower was stabilized by reinforcing the foundation. The tower also got an extra floor on top so that people can see the leaning without having to climb up the tower. The final result was to create a leaning tower that was beautiful and aesthetically pleasing.
+What do people think of the Leaning Tower
+=== output 1 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its distinctive tilt. A 17-second exposure and my tripod held that "leaning," while also allowing for the 11-second exposure for the stars.
+In Pisa, Italy, the Leaning Tower of Pisa is known for its distinctive tilt. A 17-second exposure and my tripod held that "leaning," while also allowing for the 11-second exposure for the stars.
+The Leaning Tower of Pisa is known for its distinctive tilt. A 17-second exposure and my tripod held that "leaning," while also allowing for the 11-second exposure for the stars. (Shutterstock)
+In Pisa, Italy, the Le
+=== output 2 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt. That tilt is caused by a weak foundation. The tower was meant to be vertical, but the soil was unable to bear the weight of the tower, causing the tilt. If a solid foundation had been built to support the weight of the tower, the tilt would never have occurred.
+That’s a good analogy for what’s happening in the world right now. It’s as though the foundation on which we rest our beliefs is beginning to crack, showing us that our understanding of the world is flawed. We’re in the midst of a paradigm shift in the human race, similar to what happened in the middle ages when the church’s
+=== output 3 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its unique design and a slight lean, but the Leaning Tower of Niles is a bit different. This tower's tilt is only 1% compared to a 4% tilt for the Leaning Tower of Pisa. You can see in the photos that the tilt of the tower isn't even that noticeable. There are many theories behind the Niles Tower's tilt, some believe that when the tower was first built it was intended to be built on the Illinois side of the river and that construction didn't start until after the river flooded and shifted its path.
+We took some pictures as well as a video of the interior of the
+=== output 4 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, but what’s up with the tower now? It appears to be listing even more, at least to the untrained eye.
+The Italian architectural and cultural icon was given a tilt correction by Italian engineers during a restoration project in the 1990s, and the tower’s owner, the Pisa municipality, has since maintained the 12-degree lean.
+In September 2018, a report was released showing that the tilt had increased over the past three years and the tower might need another repair. In October of that year, the Pisa Municipality issued a denial: the tower had not really moved.
+The tower had been

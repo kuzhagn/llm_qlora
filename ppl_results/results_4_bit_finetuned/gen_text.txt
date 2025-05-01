@@ -1,0 +1,20 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+=== output 0 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its nearly 4 degree tilt, but did you know that the tower has a history of leaning?
+Construction on the Leaning Tower of Pisa began in 1173 in Pisa, Italy. The reason the structure leaned in the first place is because the ground beneath the structure was too soft to support the weight of the tower, but this was not discovered until the tower was about 3 stories high. The tower was completed in 1350, although the top was not added until 1400.
+This tower in Pisa Italy leaning and tilted by 4 degrees to the right.
+After the tower was built, it became known
+=== output 1 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its distinctive tilt that is 3.9 degrees off-centre. Over time, the tilt of the tower increased until its north-east side had displaced nearly 13 ft. from the vertical.
+The tilting of the tower has been partially stabilised by adding a steel structure and more recent additions have successfully halted further collapse.
+This is an impressive and interesting tower. If you are on a trip around Italy, make sure you put it on your list of places to see. Pisa is well known, but not the only place with a leaning tower, and if you are in the UK check out this little beauty.
+In 1173
+=== output 2 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt. That tilt is caused by a weak foundation. The tower was meant to be vertical, but the soil was unable to bear the weight of the tower, causing the tower to lean. The foundation of the tower was too weak and unable to bear the load of the tower, causing it to lean.
+In the same way, our lives are built upon the foundation of faith in God. If we build our lives on a weak foundation, we will experience trials, difficulties and challenges. If we build our lives on a strong foundation, we will experience greater success, stability, and fulfillment.
+When we are faced with trials and challenges,
+=== output 3 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, which is due to construction in the 12th century on unstable soil. There are several accounts of the origin of the tower’s tilt. One story involves a group of stonemasons. Supposedly, the masons were bribed to not work too diligently or to take extended breaks, slowing down the construction process, allowing for a chance for more workers to be hired from the city, thus allowing more jobs to be created. Another version of the story involves the architect Diotisalvi, who built Pisa Cathedral and its adjoining bell tower, and who decided to use a lean in the tower as a
+=== output 4 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, but what’s even more incredible is how it almost toppled over in the 90s. The popular Italian landmark has now reopened for visitors after five years of extensive restoration to save it from crumbling. Since 1999, the tower has been closed off from the public so that engineers could make sure that it was structurally safe. Over the past 15 years, the tower has been stabilized with steel braces, reinforced at the base, and is still tilting, albeit at a much slower rate than before. While there may be other historical or architectural sites that are at risk of collapsing, Leaning Tower of Pisa

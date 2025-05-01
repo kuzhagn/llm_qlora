@@ -1,0 +1,8 @@
+Evaluation results: 2025-04-09 17:44:12 - INFO - Evaluation results: {'eval_loss': 5.081681251525879, 'eval_model_preparation_time': 0.0021, 
+'eval_runtime': 380.0599, 'eval_samples_per_second': 9.893, 'eval_steps_per_second': 0.079}
+
+
+Response: Hello, tell me about AI in healthcare, please.
+In a nutshell, AI is a computer program that uses a set of rules to reach a conclusion or make a decision. The program learns from data, and uses that data to make predictions and decisions. AI is not a single technology but rather a set of technologies, including machine learning, natural language processing, computer vision, and robotics.
+AI can be used in healthcare in a number of ways. For example, AI can be used to help with diagnosis, treatment planning, and patient monitoring
+Latency (s): 3.5539681911468506

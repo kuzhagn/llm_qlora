@@ -1,0 +1,20 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+=== output 0 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt. However, few people know that there's another tower in Italy, also leaning, but it's even more tilted than the famous monument. It's the Tower of Pommereulle in the town of Saint-Erme-Outre-et-Ramecourt.
+In the town of Saint-Erme-Outre-et-Ramecourt, in the department of Ardennes (Northern France), there is an interesting tower called the Tower of Pommereulle (or Tour de Pommereulle). Erected in the 13th century and originally used as a watchtower, it's quite similar to other towers in the area,
+=== output 1 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its distinctive tilt. Why does the tower lean and why is it still standing? According to engineering experts, the answer has a lot to do with the structure’s design and its foundations, which were built on sandy ground that slowly became unstable. In fact, this instability, along with the tower’s age, contributed to the 85-degree lean the structure once had. Construction began on the tower in 1173. By 1178, the upper stories had finished; however, the structure had already started to tilt due to the shifting ground and improper design and construction. Work on the tower was halted for more than a century, with completion
+=== output 2 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its inclination. That said, the tower is not actually falling over. Instead, it is leaning at an angle of around 4 degrees. This means that if you stood at the base of the tower, your eye level would be tilted slightly towards the side of the tower. To get a better idea of how much the tower leans, imagine taking a straight line from the top of the tower down to the ground. That line would be slightly off perpendicular to the ground, as the tower is leaning.
+What can be said about the Leaning Tower of Pisa?
+The Leaning Tower of Pisa is a famous, incomplete campanile
+=== output 3 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its unique design and for its lean, but the tower was not built to tilt. Many people believe that the tower's tilt is because of a weak foundation, but there are actually several theories on the reason for the leaning tower.
+One theory is that the tower leaned as a result of the ground it stood on subsiding. The original design of the tower called for it to have a 12-foot base, but the foundations were eventually lowered due to changes in the city's landscape. This lowering of the foundation is thought to be the reason for the tower's tilt.
+Another theory is that the tower was built on a clay-filled foundation,
+=== output 4 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, but did you know it also has an impressive bell tower? This article will discuss the history of this popular Italian landmark, the bells in the tower, and the legends surrounding this famous tower.
+What is the Leaning Tower of Pisa?
+The Leaning Tower of Pisa is one of the most famous landmarks in Italy. It is located in Pisa, a city in Tuscany, and is part of the Piazza dei Miracoli, or the Field of Miracles.
+The tower was built in the 12th century and was originally intended to be part of a cathedral. It is 55.86

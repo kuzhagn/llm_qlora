@@ -1,0 +1,19 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+=== output 0 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its unusual slant, which has become an icon of the town of Pisa. A legend has it that the tower has a slight lean because there is a grave within its walls containing the bones of the archbishop of Pisa. This grave is said to be that of the archbishop of Pisa, Gherardo Compagni. However, other people claim that the archbishop’s remains are in the San Sisto Cathedral, a nearby building.
+In 1174, the town of Pisa decided to add to the cathedral grounds and build a beautiful tower. As plans were being made, the tower was to be over 
+=== output 1 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its distinctive tilt that is 3.97 degrees off-centre. Over time, the tilt of the tower increased to 5.5 degrees as a result of poor construction and soft, unstable soil.
+A number of restoration projects were conducted in the 20th century. However, in the year 1990, a new plan was proposed where the tower would be lifted straight over a span of a decade. In 1993, the first phase of the project was completed and by 2008, after the tower was lifted to the original height and restored, it opened to the public. The following article provides information on how this
+=== output 2 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its inclination. That said, the tower is not actually falling over. Instead, it is leaning at an angle of 3.97°. It has been leaning since its construction, although the problem got worse during the construction process and worsened until 1990 when a stabilization plan was made. When a person stands directly under the tower, they will find their eye line above the tower. If they look to the top of the tower, they will see the tower as leaning over at the same angle that they are standing.
+To see an image of the leaning tower, click here. To see an image of a person standing under the
+=== output 3 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its unique design and for its lean, but the Cathedral, the Baptistery and the Camposanto are all equally remarkable. The cathedral is richly decorated with marble, bronze and stained glass.
+The Baptistery is the biggest one in Italy, and is home to the famous bell that is said to be the inspiration for Galileo's experiments with falling objects. The Camposanto was built as the city's cemetery, and today serves as its archeological museum.
+The 8-day tour begins in Venice, Italy with an overnight on the way to Rome. Next visit the historical landmarks and museums in Rome, Florence, Milan and Pisa.
+=== output 4 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, but did you know it also has an unexpected sound when you walk inside the structure? That noise is the creaking of the floors and the bell that can be heard at night.
+The Leaning Tower of Pisa is known for its tilt, but did you know it also has an unexpected sound when you walk inside the structure? That noise is the creaking of the floors and the bell that can be heard at night.
+On Sunday, the 31st anniversary of its re-opening, visitors again flocked to the iconic building at the Piazza dei Miracoli in Tuscany, which famously leans about

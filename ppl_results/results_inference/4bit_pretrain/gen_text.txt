@@ -1,0 +1,71 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its bell tower that leans at about 18 feet from a straight vertical position. But there are over 300 leaning structures in the city of Pisa, Italy. That's why Pisa is known as the "City of Leaning Towers."
+A man who had a 2-inch-wide hole in his skull from the effects of untreated hydrocephalus was given a second chance at life, thanks to neurosurgeons in Italy.
+When the United States went to war in Afghanistan and Iraq, it was in the wake of the September 11, 2001 terror attacks, and there was no clear picture of what this would mean for
+Latency: 5.474s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for its lean. So, how did it get there? Why did the architect make such a silly design decision? If the architect wanted to make the tower lean towards its people, why did the architect not simply build it the other way and make it lean away from its people? This video discusses the reasons why the tower is leaning and other questions that people ask about the Leaning Tower of Pisa.
+The Leaning Tower of Pisa is known for its lean. So, how did it get there? Why did the architect make such a silly design decision? If the architect wanted to make the tower lean towards its people, why did the
+Latency: 4.867s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its tilt. But if you go into its base, you’ll notice it has been propped up with thick wooden beams.
+And the tilt of the tower could just be a sign of things to come for the rest of our planet. A team of researchers in the Netherlands are creating an enormous structure — twice as tall as the Leaning Tower of Pisa — that will help scientists learn more about the earth’s gravitational field. But unlike the Leaning Tower of Pisa, which will stand straight forever (after some reinforcement from giant beams), scientists say this gigantic structure will tilt, gradually, over the course of the next decade.
+The new
+Latency: 4.535s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for it’s almost vertical tilt. This iconic attraction is known throughout the world. However, what if we told you, that another Leaning Tower exists, and it’s just a short bus ride away from the iconic Pisa Tower? This Leaning Tower is even closer to vertical than it’s more famous cousin – and it’s called the Tower of Marli!
+This historic site is the only remaining part of what was once a beautiful castle on the river Arce in the commune of Marli-sur-Marne.
+The origins of this tower are unknown, however, recent historical research has indicated the tower was built in the 18th century.
+Latency: 4.857s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its architectural charm.
+This article will make you learn about 10 Interesting Facts about Leaning Tower of Pisa.
+The Leaning Tower of Pisa is a free standing bell tower that belongs to the cathedral of Pisa.
+Construction of this tower was started in 1173 and this tower had a bell chamber on the top where the bells were placed.
+The most remarkable thing about this tower is that it is about 4 degree tilted towards South-East direction and hence is called as the Leaning Tower of Pisa.
+Leaning Tower of Pisa is a well known tourist destination in Italy and is situated very near to Pisa town of
+Latency: 4.492s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 5
+The Leaning Tower of Pisa is known for being tilted to one side. What are some facts about this famous tower?
+Q1. (TCO 3) In the following equation, x is the unknown number. Write the equation in standard form.
+5. (TCO 3) Write the equation in standard form, x is the unknown number.
+9. (TCO 8) 3n^2 + 2n – 4 = 0 Solve the equation by factoring.
+Latency: 3.410s | Allocated: 5784.24 MB | Reserved: 7768.00 MB
+
+=== output 6
+The Leaning Tower of Pisa is known for one main thing—its slant. Even before the tower began its slant, there were a lot of reasons for the tower to lean.
+These things made the tower lean: the construction of the tower on soft soil, the shape of the foundation, the type of materials used in the building and the structure’s height. All these things made the tower of Pisa lean a lot but then this building became popular because of its tilt.
+When the building of the Leaning Tower began in 1174, Pisa was a big Italian city with strong enemies. Pisa had to protect its castle from attacks by enemies. So, the
+Latency: 4.976s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 7
+The Leaning Tower of Pisa is known for its lean. How about this lean in St. Louis? This one is an accident waiting to happen.
+This entry was posted in Photography, Postcards, Travel, U.S. States and tagged 1980s, Arch, Postcard, St. Louis, United States on 3 April 2019 by Diane.
+This entry was posted in Postcards and tagged France, Postcard, St. Louis, United States, Wine on 19 August 2018 by Diane.
+The Louvre is the world’s largest art museum and one of its most visited sites. The Louvre was created from Louis XVI’s personal building known as
+Latency: 4.400s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 8
+The Leaning Tower of Pisa is known for its lean, but the Leaning Tower of Niles is better known for its height. Completed in 1999, the tower is the tallest wooden structure in the U.S. and the second tallest wooden structure in the world.
+It was built over a two-year period, and was designed to resemble Italy’s Leaning Tower of Pisa, which was originally built in 1173 as part of the Piazza dei Miracoli. The original tower is 184 feet tall and the Leaning Tower of Niles is just over half that height at 94.5 feet.
+Latency: 4.283s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== output 9
+The Leaning Tower of Pisa is known for its bell tower and it is one of Italy’s landmarks.
+The bell tower is a freestanding construction and it’s on the grounds of the cathedral. The Cathedral of Pisa (Italy) is a Roman Catholic cathedral and it’s located in Piazza dei Miracoli.
+The Cathedral of Pisa (Italy) is a basilica church and the interior of the building is decorated with mosaics and marble. The exterior of the building has a white marble bell tower and it leans to the south side because the soil was not enough solid to support the building.
+The construction of the Cathedral of Pisa (Italy) started in 
+Latency: 4.463s | Allocated: 5784.25 MB | Reserved: 7768.00 MB
+
+=== Summary ===
+Average Latency: 4.576 sec
+Average Allocated Memory: 5784.25 MB
+Average Reserved Memory: 7768.00 MB

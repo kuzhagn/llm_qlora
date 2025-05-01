@@ -1,0 +1,21 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+=== output 0 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its imperfection. If you are on a guided tour, the tour guide will show the leaning tower as an example of the imperfection of man. It makes a great story to show that humans are not infallible. And to be fair to all of us, the tower is not the only man-made structure that leans. There are many other towers and structures that lean and are just as famous if not more famous than the leaning tower. However, the leaning tower is the most famous because it has a great story. It leans because it is unstable when constructed. And to be fair to all of us, the tower is not the
+=== output 1 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its distinctive tilt that is 3.97 degrees off vertical, but for much of the Tower’s history the lean has been much worse.
+The main structure of the Tower of Pisa, a free-standing bell tower that was built in the 12th century in Pisa, Italy, suffered a great deal of damage because of the lean: the top leaned at an angle of over 5 degrees as compared to the base. There were even stories that the Tower might have to be demolished entirely in the early 20th century if some steps weren’t taken.
+It’s a wonder it lasted so long as long as it did: when
+=== output 2 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its inclination. People from all over the world go to see this tower. And this tower is one of the most famous structures in the world. It has become a symbol for the leaning tower. The Leaning Tower of Pisa was built between 1173 and 1472. It’s a tower with 8 stories and each story has a different height. It is one of the most famous buildings in Italy, and it is also one of the most famous monuments in the world.
+About Leaning Tower Of Pisa:
+The Tower of Pisa is an iconic landmark of Italy. It was built in the 12th century by
+=== output 3 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its unique design and a slight lean, but the cause of the tilt was still a mystery - until now.
+Researchers were able to discover the true cause of the tower's tilt thanks to a new technology that can identify the tower's location from 1908 to the present day. The new study shows that the tilt of the tower is due to the natural settlement of the ground over time and that the 850,000 tons of marble used to build it simply moved with the ground as it settled.
+The results of the study were published in the journal Building and Environment.
+It is believed that the Pisa Tower was built in three stages,
+=== output 4 | leng gen 128 + input 11
+<|begin_of_text|>The Leaning Tower of Pisa is known for its tilt, but what’s equally as impressive is how it was built. This free-standing structure, at approximately 183 ft. tall, took 200 years to build.
+Piazza del Duomo, where the Tower of Pisa is located, was completed in the 12th century, but workers on site found that the sandy soil beneath the tower was not firm enough to support its weight. This meant the structure was in danger of toppling over, or at the very least, was going to be crooked.
+It wasn’t until 1272 that a young student of the mathematician Giovanni di Dondi – later known
