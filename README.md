@@ -67,11 +67,7 @@ Used for both training and inference.
 ```
 accelerate config
 ```
-```
-export TRANSFORMERS_NO_ADVISORY_WARNINGS=true
-export TOKENIZERS_PARALLELISM=false
-export CUDA_VISIBLE_DEVICES=0
-```
+
 
 📜 Bash Scripts
 
