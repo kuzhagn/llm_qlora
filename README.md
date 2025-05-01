@@ -71,15 +71,13 @@ accelerate config
 
 📜 Bash Scripts
 
-🔧 run_finetune_and_ppl.sh
-Runs QLoRA fine-tuning on 4-bit and 8-bit models on alpaca-cleaned dataset
+Runs QLoRA fine-tuning on 4-bit and 8-bit models on alpaca-cleaned dataset/
 Evaluates perplexity for all variants on wikitext2 and ptb testsets
 ```
 bash run_finetune_and_ppl.sh
 ```
 
-🚀 run_serve_and_latency.sh
-Launches Ray Serve for each model
+Launches Ray Serve for each model/
 Estimates latency and memory usage over multiple outputs
 
 ```
