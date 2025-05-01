@@ -1,0 +1,19 @@
+pandas
+matplotlib
+linformer
+scikit-learn
+accelerate
+datasets
+evaluate
+xformers
+datasets
+bitsandbytes 
+peft
+torch==2.5.1
+absl-py
+nltk
+ray[serve]
+flash_attention_2 # optional
+# deepspeed if multigpu (create deepspeed config file)
+
+
