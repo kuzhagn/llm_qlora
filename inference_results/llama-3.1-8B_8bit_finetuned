@@ -1,7 +1,0 @@
-Response: Hello, tell me about AI in healthcare, what is it and what is it used for?
-AI in healthcare refers to the use of artificial intelligence (AI) technologies and techniques to improve healthcare outcomes and processes. AI in healthcare can be used for various purposes, including:
-  1. Disease diagnosis : AI can analyze medical images, such as X-rays and MRI scans, to help diagnose diseases and conditions more accurately and efficiently.
-  2. Drug discovery : AI can help identify new drug candidates and predict their effectiveness, which can accelerate
-Latency (s): 6.722321033477783
-
-2025-04-09 17:15:48 - INFO - Evaluation results: {'eval_loss': 0.8628464341163635, 'eval_model_preparation_time': 0.0192, 'eval_runtime': 53.2328, 'eval_samples_per_second': 70.633, 'eval_steps_per_second': 0.564}

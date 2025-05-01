@@ -1,0 +1,65 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its lean. But did you know that other tall buildings have leaned in the past? Here are seven examples:
+The Great Sphinx of Giza was built for pharaoh Khafre circa 2550-2530 BCE, and at 73 feet tall, it was a formidable statue at the time. But, over the course of many centuries, it has tilted to one side by a whopping 32 feet and is now only 41 feet tall. Although this is one of the best examples of a leaning building in existence, many experts believe that the original leaning was likely intentional to signify balance. Others point to it being due to poor
+Latency: 5.277s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for its iconic incline. It is a bell tower in the Cathedral Square of the Italian city of Pisa. This tower has been listed among the Seven Wonders of the Medieval World. This monument is a perfect example of the architecture of the Medieval era. There are many unknown facts that this site is known for and here we will explore them all.
+  1. ## The leaning Tower of Pisa is also known as Campanile
+The structure is a freestanding bell tower which is 55.9 meters tall from the ground. This tower is famous for its inclination at an angle of about 3.99 degrees.
+Latency: 4.126s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its tilt and its history. While it is an integral part of Italy's charm, it hasn't always been the tourist attraction we know today. Pisa is located between Florence and Lucca and the city is renowned for having been the medieval capital of Tuscany.
+The city grew around its medieval centre, which is located in the heart of the city near the tower. The city has a very well preserved medieval town layout with winding streets.
+If you're not going to visit the tower for the first time, you have to be there before it opens so you can get ahead of the line. It is recommended that you try to
+Latency: 4.520s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for it's lean but did you know that it was always like that? In reality, the lean started the day the construction started, in the year 1173. Over time, the foundation has sunk and the top is leaning more and more, and the leaning angle has increased from a little more than 3 degrees to more than 4 degrees. A lot of studies were done to find ways to prevent the Tower from falling down and luckily, the Tower is still standing. One of the biggest issues right now is that tourists can climb the Tower and they are not always taking good care of it. In fact, many visitors were actually climbing
+Latency: 4.146s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its tilt, but in the future, it may be known for its weight. The 853-year-old building may be restored with a new interior design which includes heavier floors and a new staircase to stop the structure from continuing to slide to the north.
+For decades, engineers have fought to stop the tower from sliding down the hill it was built upon. But the new plans include a new staircase, which would be placed where the building is still on its vertical axis. The new floor is planned to be a large slab of concrete, 8 inches deep and weighing 8,000 lbs., and 60 percent larger than the floor above it
+Latency: 4.391s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 5
+The Leaning Tower of Pisa is known for its unusual lean. Why do you think this happened? Discuss this question and the related ideas of balanced forces and centre of mass in class, then explore the simulations below.
+## Balancing objects
+When you make a model using foamboard, you find a balance point for your object. This is where the centre of mass is, and it is different for every object.
+## Balanced Forces
+Gravity is a force which pulls everything on Earth down towards its centre. The strength of this force depends on the mass of the object. A larger object will have a stronger gravitational force pulling it down towards Earth.
+On your foamboard model, did you
+Latency: 4.349s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 6
+The Leaning Tower of Pisa is known for its architectural wonder, but also for being incredibly dangerous. This building was made to lean and to get it upright would make it even more hazardous and put many lives in danger. As of right now, the leaning tower can fall, and people can still take advantage of the wonder that this tower has to offer, and people are taking that advantage. The tower has had its issues, and although the tower was repaired in 2010 to stop the falling from happening, it seems that something has gone wrong again. This time, the falling has been happening a lot faster than anyone anticipated, as a crack has been seen in the wall. The
+Latency: 4.462s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 7
+The Leaning Tower of Pisa is known for leaning, which it has been doing since it was built in the 12th century, but in recent decades there have been worries it might eventually topple over. Luckily, there are two giant robots that stand at the ready to save the day (or night) in the event the tower begins to fall. The robots, which are equipped with GPS technology and 3D mapping, are the brainchildren of a group called Legambiente (Legambiente). They were specifically created to prevent the Leaning Tower from falling and causing chaos. Luckily, the tower is pretty stable right now, but they’re always on standby in case of
+Latency: 4.159s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 8
+The Leaning Tower of Pisa is known for many things, but most notably for its slanting. The tower was originally built to be straight, but was not, and over the years many have asked, “Why is the Tower of Pisa slanted?”
+The reason why the Leaning Tower of Pisa slanted is that it was built on a slope and on poorly-compact soil. The problem worsened during construction, when the builders built the tower with less than a perfectly straight design.
+But, did you know that the Leaning Tower of Pisa is not alone? Here are four other leaning towers throughout the world.
+1. Saint Vitus Cathedral in Prague
+Latency: 4.098s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== output 9
+The Leaning Tower of Pisa is known for its distinct tilt, caused by the soft soil beneath it, but the tilt was not intentional. The tower began to tilt in the 1960s, but engineers straightened it in the early 2000s.
+Why do we believe that the leaning Tower of Pisa is an example of good engineering?
+The Leaning Tower of Pisa is believed to have resulted from poor construction and poor supervision in the design, and it is now considered a modern engineering marvel for being supported without falling over.
+What went wrong with the construction of the Leaning Tower of Pisa?
+It has been said that Leonardo Da Vinci was consulted about the problem
+Latency: 4.261s | Allocated: 15324.64 MB | Reserved: 15364.00 MB
+
+=== Summary ===
+Average Latency: 4.379 sec
+Average Allocated Memory: 15324.64 MB
+Average Reserved Memory: 15364.00 MB

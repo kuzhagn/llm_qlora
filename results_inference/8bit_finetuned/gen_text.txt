@@ -1,0 +1,65 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its tilted foundation, however, did you know that it once stood straight? The tower was started in 1173 by the architect Bonanno Pisano and it was planned to stand straight. However, soon after it was completed, the third floor was put in place. It was during this time that the tower began to list to the side because the ground that it was built on was not solid.
+So the tower was constructed on a shifting foundation, but you might not be aware of the fact that the tower leans in a different direction now. The reason is that during 1989, it was discovered that the tower was beginning to shift
+Latency: 18.929s | Allocated: 8758.45 MB | Reserved: 9180.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for its tilt, but is often overshadowed by other sites in Italy.
+In an attempt to draw more attention to the structure, the city of Pisa hosted a series of games to celebrate the tower’s famous slant.
+The tower was closed last year after a tourist slipped and nearly fell to his death.
+To celebrate the fact that the tower has now reopened after five months of emergency work, children dressed as engineers were given the chance to climb the monument – but not before its tilt was checked to ensure that it remained safe.
+There was also a ‘tilt-o-meter’, where people could stand on the tower’s courtyard and try to match
+Latency: 17.234s | Allocated: 8758.71 MB | Reserved: 9180.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for its famous tilt, but when you visit, you might just notice a more recent addition to the city’s top landmarks. The new staircase in the courtyard next to Pisa’s leaning bell tower is one of the most dramatic and daring of its kind. The stunning work of Italian architects Marco Acerbis and Massimo Giuseppeti, the staircase will delight visitors and locals alike. The tower was re-opened to visitors in 2001 after a major restoration, which was completed in 2008.
+The Pisa Leaning Tower is one of the most well known towers in the world. If you are planning to visit the tower in
+Latency: 16.965s | Allocated: 8758.27 MB | Reserved: 9180.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for its famous "lean," but the Leaning Tower of San Giorgio in Venice has a similar, if less well-known, reputation. The tower was built between 1319 and 1329 to a height of about 50 meters, making it one of the tallest buildings in Venice at the time. However, during construction, it began to lean due to the soft ground beneath it. Today, the tower is even more off-kilter than the Leaning Tower of Pisa, as it tilts about 7 degrees from vertical. Visitors to Venice can still visit the tower, although it is not open to the public. The
+Latency: 17.762s | Allocated: 8758.86 MB | Reserved: 9180.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its distinctive tilt and is one of the oldest structures in Italy. The tower was originally intended to support a large bell tower, but due to its instability and subsequent restorations, the bell tower was never built. The tower, which is 55 meters tall, underwent extensive renovations over the years to fix its tilt, and today visitors can climb the tower to enjoy panoramic views of the surrounding city.
+Latency: 10.562s | Allocated: 8759.16 MB | Reserved: 9180.00 MB
+
+=== output 5
+The Leaning Tower of Pisa is known for its tilt. But now the famed tower is also drawing ire for its tilt away from the center line of the Cathedral of Pisa, a UNESCO World Heritage Site.
+In an interview with The Associated Press, a deputy mayor of Pisa, Giacomo Savini, said: “I really wouldn’t say that we’re taking a risk; we are taking the precautions necessary to make sure that everything is done correctly, with no risks.”
+Construction crews are in the process of re-erecting the tower, which is part of a complex of historical buildings in Pisa, Italy. Engineers have already begun to stabilize the tower's foundations
+Latency: 17.594s | Allocated: 8758.40 MB | Reserved: 9180.00 MB
+
+=== output 6
+The Leaning Tower of Pisa is known for its unique and somewhat unexpected tilt. In a new research paper, scientists from the University of Pisa explain how they have taken advantage of that tilt to create a “geophysical probe” that uses electromagnetic waves, rather than sound waves, to gain a better understanding of the building’s interior.
+They found that the building’s tilt can be used to create a series of wave paths that act like probes into the tower’s interior, much like ultrasound waves bounce off the surfaces of a fetus to reveal its internal anatomy. Using the same sort of process, researchers can now study the structure of the famous leaning tower in unprecedented detail.
+The team explains that
+Latency: 17.462s | Allocated: 8758.74 MB | Reserved: 9180.00 MB
+
+=== output 7
+The Leaning Tower of Pisa is known for its famous tilt, but that is not its only notable feature. Its ornamental white-marble exterior has been intricately decorated with arches, intricate sculptures, and beautiful paintings. The tower is actually an astronomical and astronomical observatory, and its roof features an astrological globe and a sundial.
+The Leaning Tower of Pisa, located in Pisa, Italy, is a medieval structure known for its lean. It was built between 1173 and 1372 as the bell tower for Pisa’s cathedral. The tower stands at 183 feet high and is built on a foundation made of sand. As the tower was being
+Latency: 16.888s | Allocated: 8759.15 MB | Reserved: 9180.00 MB
+
+=== output 8
+The Leaning Tower of Pisa is known for being inclined because it was being built on a muddy foundation. If this is true, and engineers would want to keep it from leaning further, what is the best solution?
+A. Fill the mud with new soil to stabilize the foundation
+B. Add more weight to the top to counteract the lean
+C. Move the tower in the opposite direction of its lean
+D. Remove weight from the tower to reduce its lean
+I believe the correct answer is D. Removing weight from the tower to reduce its lean will result in the tower becoming less inclined.
+Latency: 15.479s | Allocated: 8758.64 MB | Reserved: 9180.00 MB
+
+=== output 9
+The Leaning Tower of Pisa is known for its beautiful, but not so even, tilt. Pisa is a beautiful city on the river Arno. It is known for its historic center, which was declared a World Heritage Site by UNESCO in 1987. We will discuss the top 10 things to do in Pisa.
+10. The Baptistery
+The Baptistery is also known as the Battistero di San Giovanni. The name is due to its status as a church where the Sacrament of Baptism is performed. It’s located in Piazza dei Miracoli, and it was the world’s largest building dedicated to baptism until the 19th century
+Latency: 17.842s | Allocated: 8759.08 MB | Reserved: 9180.00 MB
+
+=== Summary ===
+Average Latency: 16.672 sec
+Average Allocated Memory: 8758.75 MB
+Average Reserved Memory: 9180.00 MB

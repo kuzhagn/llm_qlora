@@ -1,0 +1,71 @@
+=== input ===
+The Leaning Tower of Pisa is known for
+
+=== output 0
+The Leaning Tower of Pisa is known for its inclination. Its bell tower began to tilt shortly after it was built, due to soft ground. Despite this challenge, construction went on for six centuries!
+After being stabilized, the tower was closed to visitors for several years while the tilt was reduced. But as the years passed, it gradually began to lean again.
+After it was closed to the public once more, construction workers were finally able to stabilize it in the 1990s. It reopened to the public with a slightly different tilt than when it had first opened, but it is now able to withstand earthquakes.
+In 2016, Pisa announced that the tower would have to
+Latency: 11.409s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 1
+The Leaning Tower of Pisa is known for its leaning.
+This is not, however, the world's only crooked construction: in fact, some are deliberately built with a tilt.
+Take a look at 12 architectural wonders, some man-made, others natural, that have developed a decided lean.
+1. Leaning Tower of Pisa (Pisa, Italy)
+The iconic Tower of Pisa in Tuscany, Italy, is known for its 4-degree lean, which became more pronounced after construction began on the third floor (at which time the top became top-heavy). By the time the seventh floor was completed, the tilting had reached 18 feet, which is
+Latency: 10.493s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 2
+The Leaning Tower of Pisa is known for it’s interesting tilt due to its not being built on solid ground. The city of San Marino on the other hand has built their famous tower on solid ground, and the structure, in return, does not lean.
+I did not really get to take a good picture of the tower as it was under repair. I had to take the picture of it from a distance. The picture is not so good but I think it gives enough to show you how it looks.
+San Marino is a small city. I could take all the pictures of the whole city at a stretch. The city is pretty and has some interesting history.
+Latency: 10.037s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 3
+The Leaning Tower of Pisa is known for the large tilt it has. Here you can see the original (on the left) and the repaired (on the right). Photo by the author, March 2009.
+The leaning tower of Pisa in Italy is just one of many wonders in the world that shows how powerful are the earth's forces of movement, such as earthquakes or human forces, such as mining. This article is about geology that makes the ground move. The basic idea is to show how we can recognize such active geologic processes in our landscape and how we might be able to predict if a landscape is going to become unstable or if an earthquake might occur,
+Latency: 10.732s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 4
+The Leaning Tower of Pisa is known for its famous tilt. What caused the tower to tilt in the first place? It was probably caused by the soft ground upon which it was built. How did that problem lead to the leaning tower?
+The construction was supposed to have begun on August 4, 1173. The building was started in the form of a rectangular plan with a length of 30 meters. The construction was stopped in 1178, only 5 years later, when the building was already leaning so much that it was no longer possible to finish the work as planned. It had already lost over 30 tons of its total weight of 16,000 tons
+Latency: 9.983s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 5
+The Leaning Tower of Pisa is known for its tilt, but its history of construction is equally interesting. In 1174, construction began on the tower that was supposed to be the cathedral's bell tower, in the city of Pisa, Italy. Due to a lack of planning and poor construction, the tower started to tilt less than 10 years after it was built.
+In 1969, the Italian government put forth a plan to keep the tower standing for future generations. After 30 years, engineers put their plan into action and straightened the tower by 18 inches. This was done by jacking up the tower by 1.75 feet and allowing the weight
+Latency: 9.528s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 6
+The Leaning Tower of Pisa is known for being an incredible tourist attraction, but not everyone knows that there's a history behind the world-famous monument and its incredible story has only just come to light.
+The iconic, 8th-century Leaning Tower of Pisa, located in Pisa, Italy, was designed to stand upright, but it was found to have begun to sink before it was even completed due to the soft ground underneath. It wasn't until the 20th-century when the Italian government stepped in and began to develop a plan to prevent further leaning and eventually fix it.
+They came up with a plan and started to execute it in 1999. In the
+Latency: 11.004s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 7
+The Leaning Tower of Pisa is known for its famous slant, but did you know the Leaning Tower is just one of several famous buildings that are tilted to one side?
+So, why do you think the Leaning Tower of Pisa is slanted and other buildings are perfectly upright?
+This article will answer all your questions about the famous buildings that are crooked and why they are that way.
+1 What is the Leaning Tower of Pisa?
+2 Why is the Leaning Tower of Pisa Leaning?
+3 Which buildings are leaning?
+4 Why are they leaning?
+5 Can the Leaning Tower of Pisa be straightened?
+6 Who is responsible for the til
+Latency: 10.011s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 8
+The Leaning Tower of Pisa is known for being one of Italy’s most famous landmarks. But in recent years, the leaning tower has been closed to tourists due to it being structurally unsafe for several months. Finally in January 2002, the tower re-opened to the public and the wait has not been in vain. The tower has been restored to its former glory and is once again a sight to see.
+The construction of the Leaning Tower of Pisa took place over a period of two centuries between 1178 and 1372. The reason for the tower’s construction is not known for certain, but it is believed that it may have been part of a baptism
+Latency: 10.060s | Allocated: 5864.25 MB | Reserved: 7862.00 MB
+
+=== output 9
+The Leaning Tower of Pisa is known for it's tilt.  It is built on unstable soil, which the engineers at the time did not take into consideration.  They wanted to have the tower perfectly vertical, but were forced to make it tilting, which it has been ever since.
+When we were in Italy, we were able to get a very close look at the Tower by taking a boat ride down the river.  It was just incredible to see how close we were able to get to this famous structure.
+Latency: 7.973s | Allocated: 5864.24 MB | Reserved: 7862.00 MB
+
+=== Summary ===
+Average Latency: 10.123 sec
+Average Allocated Memory: 5864.25 MB
+Average Reserved Memory: 7862.00 MB
