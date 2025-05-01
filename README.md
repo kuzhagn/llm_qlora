@@ -45,12 +45,14 @@ Used for both training and inference.
 
 ## 📂 Project Structure
 
-``` ├── ppl_results/ # Stores perplexity evaluation outputs
-├── results_inference/ # Stores latency and inference results
-├── scripts/ # Contains Bash automation scripts
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation (this file) ```
-/
+```
+.
+├── ppl_results/         # Stores perplexity evaluation outputs  
+├── results_inference/   # Stores latency and inference results  
+├── scripts/             # Contains Python abd Bash scripts  
+├── requirements.txt     # Python dependencies  
+└── README.md            # Project documentation (this file)
+```
 
 
 
@@ -61,14 +63,17 @@ Used for both training and inference.
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-
+   ```
+```
 accelerate config
-
+```
+```
 export TRANSFORMERS_NO_ADVISORY_WARNINGS=true
 export TOKENIZERS_PARALLELISM=false
 export CUDA_VISIBLE_DEVICES=0
+```
 
-📜 Automation Scripts
+📜 Bash Scripts
 
 🔧 run_finetune_and_ppl.sh
 Runs QLoRA fine-tuning on 4-bit and 8-bit models on alpaca-cleaned dataset
